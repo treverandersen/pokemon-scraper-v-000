@@ -5,7 +5,7 @@ class Pokemon
     @id = id
     @name = name
     @type = type
-    @id = id
+    self.db = db
   end
 
 end
